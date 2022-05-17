@@ -1,0 +1,5 @@
+alert("subhan ahmed")
+var name=("15 years old")
+alert(name)
+var name1=("SMIT Student")
+alert(name1)
